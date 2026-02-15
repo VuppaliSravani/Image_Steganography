@@ -49,28 +49,19 @@ beautiful.bmp – sample image for testing output.bmp and output.txt – generat
 ## Project Structure
 Image_Steganography-C/
 │
-├─ include/
-│  ├─ common.h
-│  ├─ encode.h
-│  └─ decode.h
-│
-├─ src/
-│  ├─ main.c
-│  ├─ encode.c
-│  └─ decode.c
-│
-├─ images/
-│  ├─ encode.png
-│  └─ decode.png
-│
+├─ README.md
+├─ main.c
+├─ encode.c
+├─ encode.h
+├─ decode.c
+├─ decode.h
+├─ common.h
 ├─ beautiful.bmp
 ├─ secret.txt
+├─ default_data_file.txt
 ├─ output.bmp
-├─ output.txt
-├─ README.md
+├─ a.out
 └─ .gitignore
-
-
 
   
 
