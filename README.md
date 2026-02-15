@@ -12,9 +12,10 @@ Image steganography in C using LSB technique for secure encoding and decoding of
 ### 1. Clone the repository:
 
 ```bash
-git clone https://https://github.com/VuppaliSravani/Image_Steganography
-cd steganography-c
+git clone https://github.com/VuppaliSravani/Image_Steganography.git
+cd Image_Steganography
 ```
+
 ### 2️. Compile the Program
 gcc src/main.c src/encode.c src/decode.c -I include -o steganography
 
